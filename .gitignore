@@ -1,0 +1,18 @@
+.DS_Store
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and coverage
+.venv/
+venv/
+.coverage
+htmlcov/
+
+# Editors
+.idea/
+.vscode/
